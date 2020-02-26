@@ -47,4 +47,12 @@ Collection of various makecode arcade games. Precompiled uf2 firmware is for Meo
 
 ---------
 
+**MyTetrisClone**  
+[online](https://arcade.makecode.com/49109-25743-34568-79675)
+
+![](arcade-MyTetrisClone.gif)
+
+---------
+
+
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
