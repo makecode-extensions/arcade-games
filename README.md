@@ -18,5 +18,9 @@ Collection of various makecode arcade games. Precompiled uf2 firmware is for Meo
 
 ![](arcade-meteor-travel.gif)
 
+## galaxy invadersl ##  
+[online](https://arcade.makecode.com/44999-41585-49075-61041)
+
+![](arcade-galaxy-invaders.gif)
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
