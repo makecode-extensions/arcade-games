@@ -16,5 +16,19 @@
 
 ---------
 
+**mini wars**  
+[online](https://arcade.makecode.com/09363-09116-82494-33886)
+
+![](arcade-mini-wars.gif)
+
+---------
+
+**Accel Racing**  
+[online](https://arcade.makecode.com/86233-37819-25265-86211)
+
+![](arcade-Accel-Racing.gif)
+
+---------
+
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
