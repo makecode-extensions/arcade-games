@@ -23,4 +23,10 @@ Collection of various makecode arcade games. Precompiled uf2 firmware is for Meo
 
 ![](arcade-galaxy-invaders.gif)
 
+## space in breakout ##  
+[online](https://arcade.makecode.com/68957-11475-53096-25017)
+
+![](arcade-space-in-breakout.gif)
+  
+
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
