@@ -61,5 +61,12 @@ Collection of various makecode arcade games. Precompiled uf2 firmware is for Meo
 
 ---------
 
+**PacMan v2.0c**  
+[online](https://arcade.makecode.com/58067-64299-04129-92042)
+
+![](arcade-PacMan-v20c.gif)
+
+---------
+
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
