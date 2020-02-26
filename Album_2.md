@@ -30,5 +30,12 @@
 
 ---------
 
+**Lost in space**  
+[online](https://arcade.makecode.com/73476-79703-19901-67382)
+
+![](arcade-Lost-in-space.gif)
+
+---------
+
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
