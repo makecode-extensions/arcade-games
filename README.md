@@ -54,5 +54,12 @@ Collection of various makecode arcade games. Precompiled uf2 firmware is for Meo
 
 ---------
 
+**Brain cell damage**  
+[online](https://arcade.makecode.com/30897-28405-49882-79418)
+
+![](arcade-Brain-cell-damage.gif)
+
+---------
+
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
