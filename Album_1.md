@@ -11,7 +11,7 @@
 
 ---------
 
-**ez maze**  
+**ez maze** from https://forum.makecode.com/t/ez-maze/1256  
 [online](https://arcade.makecode.com/68337-74786-16356-85674)
 
 ![](arcade-ez-maze.gif)
@@ -32,7 +32,7 @@
 
 ---------
 
-**space in breakout**  
+**space in breakout** from https://forum.makecode.com/t/space-in-breakout/1266  
 [online](https://arcade.makecode.com/68957-11475-53096-25017)
 
 ![](arcade-space-in-breakout.gif)
