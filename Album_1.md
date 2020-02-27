@@ -4,7 +4,7 @@
 
 ---------
 
-**square wars**  
+**square wars** from https://forum.makecode.com/t/square-wars/1142  
 [online](https://arcade.makecode.com/01641-86661-96897-78714)
 
 ![](arcade-square-wars.gif)
@@ -18,7 +18,7 @@
 
 ---------
 
-**meteor travel**  
+**meteor travel** from https://forum.makecode.com/t/meteor-travel/1104  
 [online](https://arcade.makecode.com/07488-08884-89402-35961)
 
 ![](arcade-meteor-travel.gif)
@@ -39,7 +39,7 @@
 
 ---------
 
-**I made a kiss game**  
+**I made a kiss game** from https://forum.makecode.com/t/student-project-kiss-game/910  
 [online](https://arcade.makecode.com/11796-13817-57105-17812)
 
 ![](arcade-imadeakissgame.gif)
@@ -53,21 +53,21 @@
 
 ---------
 
-**Brain cell damage**  
+**Brain cell damage** from https://forum.makecode.com/t/brain-cell-damage/656  
 [online](https://arcade.makecode.com/30897-28405-49882-79418)
 
 ![](arcade-Brain-cell-damage.gif)
 
 ---------
 
-**PacMan v2.0c**  
+**PacMan v2.0c** from https://forum.makecode.com/t/pacman-v2-0c/631  
 [online](https://arcade.makecode.com/58067-64299-04129-92042)
 
 ![](arcade-PacMan-v20c.gif)
 
 ---------
 
-**Adventures of Bevin**  
+**Adventures of Bevin** from https://forum.makecode.com/t/adventures-of-bevin-bombus-bumble-an-educational-experience-game/403  
 [online](https://arcade.makecode.com/49976-09044-76300-26941)
 
 ![](arcade-Adventures-of-Bevin.gif)
