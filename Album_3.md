@@ -24,13 +24,26 @@
 
 ---------
 
-*Mini Galaga** from https://forum.makecode.com/t/presenting-mini-galaga/1082  
+**Mini Galaga** from https://forum.makecode.com/t/presenting-mini-galaga/1082  
 [online](https://arcade.makecode.com/21217-52862-26493-66020)
 
 ![](arcade-Mini-Galaga.gif)
 
 ---------
 
+**MyPlatformer**   
+[online](https://arcade.makecode.com/#pub:91882-30149-11921-75894)
+
+![](arcade-MyPlatformer.gif)
+
+---------
+
+**Bat dungeon** from https://forum.makecode.com/t/bat-dungeon/1004  
+[online](https://arcade.makecode.com/76866-08647-86101-41081)
+
+![](arcade-bat-dungeon.gif)
+
+---------
 
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
