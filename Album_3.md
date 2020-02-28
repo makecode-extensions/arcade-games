@@ -24,5 +24,13 @@
 
 ---------
 
+*Mini Galaga** from https://forum.makecode.com/t/presenting-mini-galaga/1082  
+[online](https://arcade.makecode.com/21217-52862-26493-66020)
+
+![](arcade-Mini-Galaga.gif)
+
+---------
+
+
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
