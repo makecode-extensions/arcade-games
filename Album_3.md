@@ -45,5 +45,12 @@
 
 ---------
 
+**Bat dungeon** from https://forum.makecode.com/t/bat-dungeon/1004  
+[online](https://arcade.makecode.com/34912-69976-19528-57695)
+
+![](arcade-bat-dungeon.gif)
+
+---------
+
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
