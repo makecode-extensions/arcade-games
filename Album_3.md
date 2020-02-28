@@ -45,10 +45,17 @@
 
 ---------
 
-**Bat dungeon** from https://forum.makecode.com/t/bat-dungeon/1004  
+**mike's adventure** from https://forum.makecode.com/t/mikes-adventure/995  
 [online](https://arcade.makecode.com/34912-69976-19528-57695)
 
-![](arcade-bat-dungeon.gif)
+![](arcade-mikes-adventure.gif)
+
+---------
+
+**mike's adventure** from https://forum.makecode.com/t/wc-man-v1-2/979  
+[online](https://arcade.makecode.com/13371-96467-02127-13783)
+
+![](arcade-wc-man.gif)
 
 ---------
 
