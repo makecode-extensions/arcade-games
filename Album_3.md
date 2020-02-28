@@ -52,12 +52,25 @@
 
 ---------
 
-**mike's adventure** from https://forum.makecode.com/t/wc-man-v1-2/979  
+**wc man** from https://forum.makecode.com/t/wc-man-v1-2/979  
 [online](https://arcade.makecode.com/13371-96467-02127-13783)
 
 ![](arcade-wc-man.gif)
 
 ---------
 
+**Air Strike** from https://forum.makecode.com/t/air-strike/906  
+[online](https://arcade.makecode.com/97185-52583-96056-98597)
+
+![](arcade-Air-Strike.gif)
+
+---------
+
+**just eat and eat** from https://forum.makecode.com/t/just-eat-and-eat-update-v3-0/929  
+[online](https://arcade.makecode.com/97061-06322-32541-60172)
+
+![](arcade-just-eat-and-eat-update-v30.gif)
+
+---------
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
