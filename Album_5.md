@@ -31,6 +31,12 @@
 
 ---------
 
+**Catch that apple in the sky** from https://forum.makecode.com/t/catch-that-apple-in-the-sky/1296  
+[online](https://arcade.makecode.com/51178-98782-10938-86007)
+
+![](arcade-catch-that-apple-in-the-sky.gif)
+
+---------
 
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
