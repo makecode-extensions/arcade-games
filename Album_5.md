@@ -1,12 +1,19 @@
 # MakeCode Arcade Games
-## Album 4
+## Album 5
 
 ---------
 
-**Spooky Maze** from https://forum.makecode.com/t/spooky-maze/894  
-[online](https://arcade.makecode.com/44722-06544-87502-07916)
+**Spooky Maze** from https://forum.makecode.com/t/presenting-elvis-the-snake/769  
+[online](https://arcade.makecode.com/11100-00281-50981-93693)
 
-![](arcade-Spooky-Maze.gif)
+![](arcade-Elvis-13.gif)
+
+---------
+
+**WareHouse** from https://forum.makecode.com/t/presenting-elvis-the-snake/769  
+[online](https://arcade.makecode.com/96809-62283-14224-22183)
+
+![](arcade-Warehouse.gif)
 
 ---------
 
