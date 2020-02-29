@@ -32,6 +32,12 @@
 
 ---------
 
+**Kaleidoscope** from https://forum.makecode.com/t/presenting-kaleidoscope-6-4/756  
+[online](https://arcade.makecode.com/08171-83933-23493-96665)
+
+![](arcade-Kaleidoscope-64.gif)
+
+---------
 
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
