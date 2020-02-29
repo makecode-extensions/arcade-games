@@ -9,6 +9,7 @@ Collection of various makecode arcade games. Precompiled uf2 firmware is for Meo
 - [Album 2](Album_2.md)
 - [Album 3](Album_3.md)
 - [Album 4](Album_4.md)
+- [Album 5](Album_5.md)
 
 
 ---------
