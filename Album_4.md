@@ -53,5 +53,11 @@
 
 ---------
 
+**Adventures of Boy 2339: Part 1** from https://forum.makecode.com/t/adventures-of-boy-2339-part-1-somewhere-in-the-sky/796  
+[online](https://makecode.com/_EAU88Hc3fDFT)
+
+![](arcade-Adventures-of-Boy-2339Part-1.gif)
+
+---------
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
