@@ -17,5 +17,14 @@
 
 ---------
 
+**Star Wars PAC-MAN** from https://arcade.makecode.com/45919-63454-54248-38043  
+[online](https://arcade.makecode.com/#pub:45919-63454-54248-38043)
+
+![](arcade-Star-Wars-PAC-MAN.gif)
+
+---------
+
+
+
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
