@@ -39,7 +39,7 @@
 
 ---------
 
-**Kaleidoscope** from https://wecodemakecode.com/2019/07/10/hungry-square-a-game-in-makecode-arcade/  
+**Hungry Square** from https://wecodemakecode.com/2019/07/10/hungry-square-a-game-in-makecode-arcade/  
 [online](https://arcade.makecode.com/41032-35166-03730-20820)
 
 ![](arcade-Hungry-Square-22.gif)
