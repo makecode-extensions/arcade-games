@@ -38,5 +38,12 @@
 
 ---------
 
+**Food Catching(Beta)** from https://forum.makecode.com/t/food-catching-beta/1286  
+[online](https://arcade.makecode.com/58729-64470-84148-07699)
+
+![](arcade-Food-Catching.gif)
+
+---------
+
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
