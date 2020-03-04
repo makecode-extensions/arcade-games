@@ -45,5 +45,12 @@
 
 ---------
 
+**Trogdor: Endless Burnination v0.1** from https://forum.makecode.com/t/trogdor-endless-burnination-v0-1-microsoft-makecode/398  
+[online](https://arcade.makecode.com/14725-20265-39453-52399)
+
+![](arcade-Trogdor-Endless-Burnination-v01.gif)
+
+---------
+
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
