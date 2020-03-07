@@ -52,5 +52,11 @@
 
 ---------
 
+**North Shore Winter Adventure** from https://forum.makecode.com/t/north-shore-winter-adventure/1313  
+[online](https://arcade.makecode.com/22765-98788-64181-21037)
+
+![](arcade-NorthShoreWinterAdventure.gif)
+
+---------
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
