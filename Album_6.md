@@ -8,5 +8,13 @@
 
 ![](arcade-castle-crawler.gif)
 
+---------
+
+**Hang Man** from https://forum.makecode.com/t/hangman/1372  
+[online](https://arcade.makecode.com/24050-52891-98139-04377)
+
+![](arcade-HangMan.gif)
+
+
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
