@@ -15,6 +15,11 @@
 
 ![](arcade-HangMan.gif)
 
+---------
 
+**Bear Quest v1.0** from https://forum.makecode.com/t/bear-quest-v1-0/1431  
+[online](https://arcade.makecode.com/49433-55718-97292-50517)
+
+![](arcade-Bear-Quest.gif)
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
