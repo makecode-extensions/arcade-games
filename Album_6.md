@@ -22,4 +22,16 @@
 
 ![](arcade-Bear-Quest.gif)
 
+---------
+
+**Racquetball** from https://forum.makecode.com/t/racquetball/1483  
+[online](https://arcade.makecode.com/79706-92624-82126-48770)
+
+![](arcade-racquetball.gif)
+
+---------
+
+
+
+
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
