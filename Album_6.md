@@ -31,7 +31,12 @@
 
 ---------
 
+**Covid-19 :3** from https://forum.makecode.com/t/covid-19-3/1521  
+[online](https://arcade.makecode.com/31417-88494-09779-29529)
 
+![](arcade-Covid-19-3.gif)
+
+---------
 
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
