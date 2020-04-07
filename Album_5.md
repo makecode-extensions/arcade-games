@@ -3,7 +3,7 @@
 
 ---------
 
-**Spooky Maze** from https://forum.makecode.com/t/presenting-elvis-the-snake/769  
+**Presenting Elvis the Snake** from https://forum.makecode.com/t/presenting-elvis-the-snake/769  
 [online](https://arcade.makecode.com/11100-00281-50981-93693)
 
 ![](arcade-Elvis-13.gif)
