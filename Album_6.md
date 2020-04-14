@@ -45,6 +45,12 @@
 
 ---------
 
+**Asteroids Incoming!** from https://forum.makecode.com/t/presenting-asteroids-incoming/1496  
+[online](https://arcade.makecode.com/88624-76918-28586-59954)
+
+![](arcade-Asteroids-Incoming.gif)
+
+---------
 
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
