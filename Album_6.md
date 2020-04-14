@@ -52,5 +52,12 @@
 
 ---------
 
+**A Game That Is Fun** from https://forum.makecode.com/t/a-game-that-is-fun/1487  
+[online](https://arcade.makecode.com/02262-37592-11659-02385)
+
+![](arcade-A-Game-That-Is-Fun.gif)
+
+---------
+
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
