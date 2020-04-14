@@ -38,5 +38,13 @@
 
 ---------
 
+**charred earth v2.0** from https://forum.makecode.com/t/charred-earth-tank-game-update/1662  
+[online](https://arcade.makecode.com/72397-33207-92675-41376)
+
+![](arcade-charred-earth-v20.gif)
+
+---------
+
+
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
