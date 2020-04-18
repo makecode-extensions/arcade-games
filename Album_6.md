@@ -59,5 +59,18 @@
 
 ---------
 
+**Chase a Easter Egg** from https://forum.makecode.com/t/chase-a-easter-egg/1678  
+[online](https://arcade.makecode.com/95556-42249-46511-20189)
+
+![](arcade-Chase-a-Easter-Egg.gif)
+
+---------
+
+**Five nights at frogers V0.2** from https://forum.makecode.com/t/five-nights-at-frogers-v0-2/1686  
+[online](https://arcade.makecode.com/67446-02381-36773-37487)
+
+![](arcade-five-nights-at-frogers.gif)
+
+---------
 
 [From microbit/micropython Chinese community](http://www.micropython.org.cn)
